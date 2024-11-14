@@ -1,0 +1,3 @@
+C:/Users/34601/Documents/GitHub/Ada-Colecci-n-de-Ejercicios-Gesti-n-de-la-memoria/cmake-build-debug/CMakeFiles/Ada_Colecci_n_de_Ejercicios_Gesti_n_de_la_memoria.dir
+C:/Users/34601/Documents/GitHub/Ada-Colecci-n-de-Ejercicios-Gesti-n-de-la-memoria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/34601/Documents/GitHub/Ada-Colecci-n-de-Ejercicios-Gesti-n-de-la-memoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
